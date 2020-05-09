@@ -2,3 +2,8 @@ An OS deals with many important functions including memory management.
 The OS tracks what programs are using the primary memory and what parts of the primary memory are free. 
 The OS determines how much memory a program will get when there are multiple programs running. 
 The OS will also give or take  away memory to programs when the program makes a request for memory, or when the program stops running.
+
+Another function of OS is device management.
+The OS tracks every device used for example the CPU and any Bluetooth devices that are associated.
+The OS will allocate and de-allocate devices. 
+The OS will also determine what programs and when these programs are able to work with a device.
