@@ -7,3 +7,8 @@ Another function of OS is device management.
 The OS tracks every device used for example the CPU and any Bluetooth devices that are associated.
 The OS will allocate and de-allocate devices. 
 The OS will also determine what programs and when these programs are able to work with a device.
+
+OS also deals with file management.
+The OS determines which files receive resources. 
+The OS also deals with de-allocating resources.
+The OS also tracks files and information about those files, for example the location and status of each file.
